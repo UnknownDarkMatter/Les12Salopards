@@ -3,3 +3,7 @@
 ################################################################################
 
 /Les12Salopards.Business/obj/Debug
+/Les12Salopards.Business.Tests/obj
+/Les12Salopards.Entities/obj/Debug
+/Les12Salopards.IHM/obj/Debug
+/packages/log4net.2.0.12
